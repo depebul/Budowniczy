@@ -1,4 +1,4 @@
-package builderTest;
+package builderTest.model;
 
 public class House {
     private int numberOfRooms;
@@ -23,3 +23,5 @@ public class House {
         this.location = location;
     }
 }
+
+

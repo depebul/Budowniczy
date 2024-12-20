@@ -1,4 +1,4 @@
-package builderTest.model;
+package toSolve;
 
 public class Kebab {
     private String dough;

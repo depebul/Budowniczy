@@ -1,4 +1,4 @@
-package builderTest.model;
+package toSolve;
 
 public class Main {
     public static void main(String[] args) {
